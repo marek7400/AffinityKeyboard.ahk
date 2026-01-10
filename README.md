@@ -10,6 +10,7 @@ The script can be freely edited and configured:
 -change colors
 If it suddenly stops working, you need to reload the script from the Autohotkey menu or restart your computer (sometimes more than once).
 Unfortunately, I haven't figured out why this happens.
+
 BONUS:
 The script can be easily converted to any program, just change the path to EXE.
 
