@@ -12,6 +12,7 @@ If it suddenly stops working, you need to reload the script from the Autohotkey 
 Unfortunately, I haven't figured out why this happens.
 BONUS:
 The script can be easily converted to any program, just change the path to EXE.
+
 full code also: https://pastebin.com/VpzDg9Ve  
 ***
 
