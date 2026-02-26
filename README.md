@@ -2,6 +2,10 @@
 AffinityKeyboardV2 (AutohotkeyV2)
 ![keyboard](https://github.com/user-attachments/assets/18ee01ac-c84f-48d5-9142-9a54cb8bfc6e)
 
+AffinityKeyboardV3 (AutohotkeyV2)
+<img width="1920" height="75" alt="AffinityKeyboardV3" src="https://github.com/user-attachments/assets/e521e935-c286-44b6-bf9e-8d89713cd25f" />
+
+
 Since Affinity version 3.02 does not allow you to add all types of buttons to the toolbar, I decided to fix this.
 My own keyboard for Affinity is based on the AutohotkeyV2 script.
 The script can be freely edited and configured: 
