@@ -14,7 +14,8 @@ Unfortunately, I haven't figured out why this happens.
 BONUS:
 The script can be easily converted to any program, just change the path to EXE.
 
-full code also: [https://pastebin.com/VpzDg9Ve](https://pastebin.com/shfN3p89)  
+full code also: [https://pastebin.com/shfN3p89](https://pastebin.com/shfN3p89)  
+
 ***
 
 Jako, że Affinity w wersji 3.02 nie umożliwia wrzucenie na belkę wszystkich rodzajów przycisków, postanowiłem to naprawić.
