@@ -1,5 +1,5 @@
-# AffinityKeyboardV2.ahk
-AffinityKeyboardV2 (AutohotkeyV2)
+# AffinityKeyboardV3.ahk
+AffinityKeyboardV3 (AutohotkeyV2)
 ![keyboard](https://github.com/user-attachments/assets/18ee01ac-c84f-48d5-9142-9a54cb8bfc6e)
 
 Since Affinity version 3.02 does not allow you to add all types of buttons to the toolbar, I decided to fix this.
